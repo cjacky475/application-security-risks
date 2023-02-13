@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar spring-boot-security-login-0.0.1.jar --spring.profiles.active=YOUR_PROD_PROFILE
